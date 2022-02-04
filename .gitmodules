@@ -1,0 +1,3 @@
+[submodule "tinker.rust"]
+	path = tinker.rust
+	url = https://github.com/blairmunroakusaTRUNK/tinker.rust
